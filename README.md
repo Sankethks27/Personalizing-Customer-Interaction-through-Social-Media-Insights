@@ -300,26 +300,20 @@ Segment-based recommendations can increase:
 
 ## 📂 Project Structure
 
-```text
-AeroReach-Insights/
+```
+Personalizing-Customer-Interaction-through-Social-Media-Insights/
 │
-├── data/
-│   ├── AeroReach Insights.csv
+├── 📁 Dataset/
+│   ├── Data Description.docx
+│   └── AeroReach Insights.xlsx
 │
-├── notebooks/
-│   ├── EDA.ipynb
-│   ├── Data_Preprocessing.ipynb
-│   ├── Model_Building.ipynb
-│
-├── reports/
-│   ├── Final_Report.pdf
-│
-├── images/
-│   ├── visualizations
-│
-├── README.md
-│
-└── requirements.txt
+├── 📁 Final Report/
+│   └── Final Report.pdf
+|
+├── 📁 Notebook/
+│   └── Personalizing Customer Interaction through Social Media Insights.ipynb
+|
+└── 📁 README.md
 ```
 
 ### Execute Workflow
